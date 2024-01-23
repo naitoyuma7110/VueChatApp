@@ -1,4 +1,4 @@
-# [Firebace]認証付きチャット
+# Firebace,Vue2,Javascriptで認証付きチャット
 
 ## 使用技術
 
